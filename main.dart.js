@@ -4130,7 +4130,7 @@
   A.main_closure.prototype = {
     call$1($event) {
       type$.MouseEvent._as($event);
-      B.HeadingElement_methods.set$text(this.title, "\u0e04\u0e38\u0e13\u0e01\u0e14\u0e1b\u0e38\u0e48\u0e21\u0e41\u0e25\u0e49\u0e27!");
+      B.HeadingElement_methods.set$text(this.title, "\u0e04\u0e27\u0e22!");
     },
     $signature: 10
   };
