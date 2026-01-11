@@ -7,6 +7,6 @@ void main() {
 
   // เมื่อกดปุ่ม
   button.onClick.listen((event) {
-    title.text = 'คุณกดปุ่มแล้ว!';
+    title.text = 'ควย!';
   });
 }
